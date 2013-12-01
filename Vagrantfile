@@ -30,7 +30,8 @@ Vagrant.configure("2") do |config|
   # config.vm.network :private_network, ip: "192.168.33.10"
   # config.vm.network :public_network
   # config.ssh.forward_agent = true
-  # config.vm.synced_folder "../data", "/vagrant_data"
+  # config.ssh.forward_x11 = true
+  # config.vm.synced_folder ".", "/vagrant", :nfs => true
   # config.vm.provider :virtualbox do |vb|
   #   vb.gui = true
   #   vb.customize ["modifyvm", :id, "--memory", "1024"]
