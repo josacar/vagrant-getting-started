@@ -14,7 +14,6 @@
 ## Bulding a Vagrant VM box
 
 - [Veewee](https://github.com/jedi4ever/veewee)
-- [Wheezy](http://stacktoheap.com/blog/2013/06/19/building-a-debian-wheezy-vagrant-box-using-veewee/)
 - [Packer](http://www.packer.io)
 
 ## Getting started in Vagrant
@@ -58,10 +57,17 @@ vagrant init centos http://puppet-vagrant-boxes.puppetlabs.com/centos-64-x64-vbo
 
 ## Annex
 
-http://docs.vagrantup.com/v2/synced-folders/index.html
+### Vagrant
 
-http://docs.vagrantup.com/v2/vagrantfile/index.html
+- [Synced folders](http://docs.vagrantup.com/v2/synced-folders/index.html)
+- [Vagrantfile format](http://docs.vagrantup.com/v2/vagrantfile/index.html)
+- [Mutli-machine](http://docs.vagrantup.com/v2/multi-machine/index.html)
+- [Networking](http://docs.vagrantup.com/v2/networking/index.html)
 
-http://docs.vagrantup.com/v2/multi-machine/index.html
+### Veewee
 
-http://docs.vagrantup.com/v2/networking/index.html
+- [Build Debian Wheezy](http://stacktoheap.com/blog/2013/06/19/building-a-debian-wheezy-vagrant-box-using-veewee/)
+
+### Packer
+
+- [Building with packer](http://blog.codeship.io/2013/11/07/building-vagrant-machines-with-packer.html)
