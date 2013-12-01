@@ -35,8 +35,12 @@
  - [rove](http://rove.io/)
  - [librarian](https://github.com/applicationsonline/librarian)
  - [berkshelf](https://github.com/berkshelf/berkshelf)
+ - [omnibus](https://github.com/opscode/omnibus-ruby)
+ - [chef-omnibus](http://www.opscode.com/chef/install)
  - [vagrant-librarian-chef](https://github.com/jimmycuadra/vagrant-librarian-chef)
+ - [Vagrant librarian config options](https://github.com/jimmycuadra/vagrant-librarian-chef/blob/master/lib/vagrant-librarian-chef/config.rb)
  - [vagrant-berkshelf](https://github.com/berkshelf/vagrant-berkshelf)
+ - [Vagrant berkshelf config options](https://github.com/berkshelf/vagrant-berkshelf/blob/master/lib/berkshelf/vagrant/config.rb)
 
 ## Annex
 

@@ -12,6 +12,8 @@ Vagrant.configure("2") do |config|
   # config.vm.provision "shell", $script
   config.vm.provision "shell", path: "script.sh"
 
+  config.omnibus.chef_version = "10.28.2"
+  # config.berkshelf.enabled = true
   # Chef-solo provisioner
   # config.vm.provision :chef_solo do |chef|
   #   chef.cookbooks_path = ["cookbooks"]
