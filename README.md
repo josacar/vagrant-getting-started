@@ -21,6 +21,7 @@
 
 - [Getting Started](http://docs.vagrantup.com/v2/getting-started/index.html)
 - [CLI](http://docs.vagrantup.com/v2/cli/index.html)
+- [Prebuilt vagrant boxes](http://www.vagrantbox.es)
 
 ### Debian Wheezy amd64 Box
 
