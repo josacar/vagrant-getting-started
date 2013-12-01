@@ -82,3 +82,7 @@ vagrant init centos http://puppet-vagrant-boxes.puppetlabs.com/centos-64-x64-vbo
 ### Packer
 
 - [Building with packer](http://blog.codeship.io/2013/11/07/building-vagrant-machines-with-packer.html)
+
+### Presentation
+
+- [git_presenter](https://github.com/pythonandchips/git-presenter)
