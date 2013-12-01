@@ -64,6 +64,17 @@ vagrant init centos http://puppet-vagrant-boxes.puppetlabs.com/centos-64-x64-vbo
 - [Mutli-machine](http://docs.vagrantup.com/v2/multi-machine/index.html)
 - [Networking](http://docs.vagrantup.com/v2/networking/index.html)
 
+#### Providers
+
+- [libvirt](https://github.com/pradels/vagrant-libvirt)
+- [kvm](https://github.com/adrahon/vagrant-kvm)
+- [lxc](https://github.com/fgrehm/vagrant-lxc)
+- [vmfusion](http://www.vagrantup.com/vmware)
+
+#### Plugins
+
+- [Wiki](https://github.com/mitchellh/vagrant/wiki/Available-Vagrant-Plugins)
+
 ### Veewee
 
 - [Build Debian Wheezy](http://stacktoheap.com/blog/2013/06/19/building-a-debian-wheezy-vagrant-box-using-veewee/)
