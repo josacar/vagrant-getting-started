@@ -22,8 +22,21 @@
 - [Getting Started](http://docs.vagrantup.com/v2/getting-started/index.html)
 - [CLI](http://docs.vagrantup.com/v2/cli/index.html)
 
-- `mkdir debian && cd debian && vagrant init debian https://dl.dropboxusercontent.com/u/197673519/debian-7.2.0.box`
-- `mkdir centos && cd centos && vagrant init centos http://puppet-vagrant-boxes.puppetlabs.com/centos-64-x64-vbox4210-nocm.box`
+### Debian Wheezy amd64 Box
+
+```
+mkdir debian
+cd debian
+vagrant init debian https://dl.dropboxusercontent.com/u/197673519/debian-7.2.0.box
+```
+
+### Centos 6 x86_64 Box
+
+```
+mkdir centos
+cd centos
+vagrant init centos http://puppet-vagrant-boxes.puppetlabs.com/centos-64-x64-vbox4210-nocm.box
+```
 
 ## Provisioning
 
